@@ -1,2 +1,4 @@
 # Redux_Weather_states
-Created with CodeSandbox
+<h1>Previews</h1>
+<img src="/sunny weather.png"/>
+<img src="/weather.png"/>
