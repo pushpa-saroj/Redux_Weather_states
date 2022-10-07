@@ -1,0 +1,51 @@
+.Container {
+  margin-left: 300px;
+  margin-right: 300px;
+  text-align: center;
+}
+.button {
+  color: rgb(237, 244, 245);
+  border: 2px solid rgb(104, 102, 102);
+  border-radius: 5px;
+  box-shadow: rgb(61, 22, 100);
+  margin-right: 16px;
+  padding: 10px 15px;
+}
+
+.Primary {
+  background-color: rgb(73, 54, 158);
+}
+
+.secondary {
+  background-color: rgb(96, 22, 119);
+}
+.warning {
+  background-color: rgb(206, 154, 13);
+}
+.success {
+  background-color: rgb(27, 189, 67);
+}
+
+.card-header {
+  background-color: rgb(125, 56, 146);
+  color: rgb(237, 244, 245);
+  padding: 2px 15px;
+}
+
+.card-footer {
+  padding: 50px 15px;
+  background-color: rgb(201, 196, 202);
+  color: rgb(237, 244, 245);
+}
+
+.card-body {
+  background-color: rgb(246, 241, 247);
+  color: black;
+  padding: 20px 15px;
+}
+
+/* <div className="container mt-3">
+    <div className="row">
+   <div className="col-md-3"></div>
+   <div className="col-md-6">
+   */
